@@ -10,9 +10,10 @@ Quem tem serviços a fornecer, cadastra-se na plataforma com seu nome, dados pes
 
 
 Tecnologias Utilizadas
-
+- PHP 7.3.10
 
 Banco de Dados utilizado
-
+- MySQL Community Server 8.0.18 
 
 Servidor utilizado no desenvolvimento
+- XAMPP Version: 7.3.10
