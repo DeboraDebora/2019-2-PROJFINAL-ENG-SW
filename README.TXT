@@ -7,3 +7,12 @@ Dependendo do tipo de serviço a ser fornecido, a abrangência fornecedor/client
 Levando em conta que muitos estudantes universitários precisam de renda extra para se manter estudando, e tem despesas com moradia, alimentação, transporte e material escolar – e levando em conta que o tempo de tais pessoas é escasso para ficar criando anúncios individuais de prestação de serviços, divulgando serviços em redes sociais, contando com o “boca-a-boca” para divulgar seus trabalhos (já que possuem compromissos com estudos e outras obrigações), a plataforma facilita muito a conexão entre quem fornece e quem procura serviços, otimizando assim o tempo dos usuários. Basta cadastrar, anunciar e aguardar!  
 
 Quem tem serviços a fornecer, cadastra-se na plataforma com seu nome, dados pessoais, tipo de serviço que fornece e contato (e-mail, telefone, etc), anunciando seu serviço. Quem precisa de certos serviços, cadastra-se na plataforma, e então procura por tais fornecedores de serviços. E então entra em contato com eles, para fazerem o acordo de trabalho.
+
+
+Tecnologias Utilizadas
+
+
+Banco de Dados utilizado
+
+
+Servidor utilizado no desenvolvimento
