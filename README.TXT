@@ -11,6 +11,8 @@ Quem tem serviços a fornecer, cadastra-se na plataforma com seu nome, dados pes
 
 Tecnologias Utilizadas
 - PHP 7.3.10
+- HTML5
+- CSS
 
 Banco de Dados utilizado
 - MySQL Community Server 8.0.18 
