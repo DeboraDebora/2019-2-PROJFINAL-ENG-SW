@@ -5,7 +5,12 @@ restrições a seu funcionamento. Eles
 refletem as necessidades dos clientes
 para um determinado sistema”.
 
+No caso deste sistema que está sendo desenvolvido neste trabalho, devem-se atender a Requisitos Funcionais (RF) e Requisitos Não-Funcionais (RNF). 
 
+Requisitos Funcionais: Definem O QUE O SISTEMA fará. Em outras palavras, o sistema deve receber as credenciais (login e senha) de usuários cadastrados (ou então permitir que eles se cadastrem), para então possibilitar que eles façam login, criem um perfil e o consultem, alterem ou excluam. 
+Requisitos Não-Funcionais: são praticamente todas as necessidades que não podem ser atendidas através de funcionalidades. Geralmente mensurável, os requisitos não funcionais definem características e impõe limites do sistema como método de desenvolvimento, tempo, espaço, Sistema Operacional, dentre outros. Neste caso, é necessário que seja um sistema fácil de ser utilizado por usuários com pouca habilidade em informática, além de estar disponível 99% do tempo. 
+
+Além disso, deve atender a estas três regras de requisitos listadas abaixo:
 
 Requisitos de Usuário
 Um usuário (prestador ou recebedor de serviços) deve ser capaz de se cadastrar no sistema.
