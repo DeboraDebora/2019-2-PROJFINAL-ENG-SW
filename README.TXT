@@ -8,6 +8,13 @@ Levando em conta que muitos estudantes universitários precisam de renda extra p
 
 Quem tem serviços a fornecer, cadastra-se na plataforma com seu nome, dados pessoais, tipo de serviço que fornece e contato (e-mail, telefone, etc), anunciando seu serviço. Quem precisa de certos serviços, cadastra-se na plataforma, e então procura por tais fornecedores de serviços. E então entra em contato com eles, para fazerem o acordo de trabalho.
 
+PASTAS DO REPOSITÓRIO (E SEUS RESPECTIVOS CONTEÚDOS): 
+-Diagramas: contém os diagramas de caso de uso, diagrama UML, diagrama de sequência.
+-Padrões Adotados: contém documentos tais como: Regras de Verificação e Análise de Requisitos, Requisitos Funcionais a serem atendidos, Requisitos não-funcionais a serem atendidos.  
+
+OUTRAS DOCUMENTAÇÕES
+-Documento de Requisitos: documento completo, formatado, que delimita o escopo do conjunto de funcionalidades que este sistema deve prover, bem como descreve os atributos de qualidade que devem ser suportados.
+-Protótipo de Interfaces: contém os protótipos das interfaces do sistema criado.
 
 Tecnologias Utilizadas
 - PHP 7.3.10
