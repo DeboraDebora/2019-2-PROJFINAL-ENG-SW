@@ -22,7 +22,7 @@ Segurança
 Esta seção descreve os requisitos não funcionais associados à integridade, privacidade e autenticidade dos dados do sistema.
 
 [NF005] Ataques DDoS 
-O sistema deve estar adequadamente protegido contra ataques DDoS
+O sistema deve ter um firewall que proteja adequadamente contra ataques DDoS.
 
 [NF006] Bloqueio do sistema
 Se forem identificados ataques de segurança, o sistema não continuará operando até que seja desbloqueado por um administrador de segurança

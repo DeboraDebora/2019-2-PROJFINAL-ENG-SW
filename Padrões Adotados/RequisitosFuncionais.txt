@@ -75,3 +75,20 @@ Saídas e pós condições: Exclusão do seu login, senha, perfil e demais dados
 Fluxo de eventos principal
 <Usuário loga no site, acessa o item de menu Excluir Usuário -> aparece mensagem “Conta encerrada”. 
  Fluxos secundários (alternativos e/ou de exceção)
+
+
+el sistema debe permitir el registro de usuarios.
+El sistema debe permitir consultar los usuarios registrados
+
+
+correcion
+- o sistema deve permitir o cadastro de usuários.
+- O sistema deve permitir consultar os usuários cadastrados.
+- O sistema deve permitir alterar as informações dos usuários cadastrados.
+- O sistema deve permitir excluir usuários registrados.
+- O sistema deve permitir o cadastro de contratos.
+- O sistema deve permitir consultar os contratos cadastrados.
+- O sistema deve permitir alterar as informações dos contratos cadastrados.
+- O sistema deve permitir excluir contratos registrados.
+- O sistema deve permitir o login digitando um nome de usuário e senha.
+- 
