@@ -1,0 +1,8 @@
+Como são apenas 2 colaboradores neste projeto, em vez de um time mais extenso, optamos por simplificar as regras de uso, de forma que facilite para ambos fazerem o trabalho de forma colaborativa. 
+
+No nosso projeto:
+Foi criado um diretório, no qual ambos os membros estão conectados e têm permissões para fazer commits, uploads de pastas. Por ser um trabalho de porte menor e com apenas 2 colaboradores, não vimos necessidade de usarmos branches - embora saibamos que este é um recurso importantíssimo quando há um time maior e um projeto mais extenso - e apenas usamos o diretório principal. Quando fazemos acréscimos de arquivos, realizamos uploads de nossas máquinas para o repositório do gitHub diretamente. Quando fazemos alterações, fazemos download do projeto, fazemos as devidas alterações e então fazemos o upload com as modificações.
+
+No próprio diretório principal, encontram-se diversas pastas, nas quais através dos respectivos nomes, encontram-se os códigos, os diagramas. Além de arquivos com documentos de requisitos (e padrões adotados), protótipo de interfaces, README.
+
+Também existe a possibilidade de os arquivos serem editados, criados e/ou substituídos no próprio espaço do GITHUB destinado a isto (no campo "Edit New File") e então as modificações de forma colaborativa/online serem feitas a partir dele.
