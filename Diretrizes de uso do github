@@ -6,3 +6,8 @@ Foi criado um diretório, no qual ambos os membros estão conectados e têm perm
 No próprio diretório principal, encontram-se diversas pastas, nas quais através dos respectivos nomes, encontram-se os códigos, os diagramas. Além de arquivos com documentos de requisitos (e padrões adotados), protótipo de interfaces, README.
 
 Também existe a possibilidade de os arquivos serem editados, criados e/ou substituídos no próprio espaço do GITHUB destinado a isto (no campo "Edit New File") e então as modificações de forma colaborativa/online serem feitas a partir dele.
+
+Para facilitar o acompanhamento das atualizações dos arquivos, usam-se palavras chaves: 
+-NOVO : Para arquivos novos criados (no próprio github ou por upload)
+-ATUALIZADO: Para arquivos alterados (ou então uma versão nova do arquivo que sobrescreve a antiga);
+ 
