@@ -8,6 +8,10 @@ No próprio diretório principal, encontram-se diversas pastas, nas quais atrav�
 Também existe a possibilidade de os arquivos serem editados, criados e/ou substituídos no próprio espaço do GITHUB destinado a isto (no campo "Edit New File") e então as modificações de forma colaborativa/online serem feitas a partir dele.
 
 Para facilitar o acompanhamento das atualizações dos arquivos, usam-se palavras chaves: 
--NOVO : Para arquivos novos criados (no próprio github ou por upload)
--ATUALIZADO: Para arquivos alterados (ou então uma versão nova do arquivo que sobrescreve a antiga);
+-FINISHED : Quando alguma fase da execução do trabalho foi concluída.
+
+-CREATE:Para arquivos novos criados (no próprio github ou por upload)
+-UPDATED: Para arquivos alterados (ou então uma versão nova do arquivo que sobrescreve a antiga);
+-CORRECTIONS MADE: Para arquivos corrigidos;
+-ADD FILES: Para arquivos novos adicionados. 
  
