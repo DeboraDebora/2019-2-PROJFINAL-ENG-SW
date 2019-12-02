@@ -10,11 +10,8 @@ Quem tem serviços a fornecer, cadastra-se na plataforma com seu nome, dados pes
 
 PASTAS DO REPOSITÓRIO (E SEUS RESPECTIVOS CONTEÚDOS): 
 -Diagramas: contém os diagramas de caso de uso, diagrama UML, diagrama de sequência.
--Padrões Adotados: contém documentos tais como: Regras de Verificação e Análise de Requisitos, Requisitos Funcionais a serem atendidos, Requisitos não-funcionais a serem atendidos.  
-
-OUTRAS DOCUMENTAÇÕES
--Documento de Requisitos: documento completo, formatado, que delimita o escopo do conjunto de funcionalidades que este sistema deve prover, bem como descreve os atributos de qualidade que devem ser suportados.
--Protótipo de Interfaces: contém os protótipos das interfaces do sistema criado.
+-Padrões Adotados: contém documentos tais como: Regras de Verificação e Análise de Requisitos, Requisitos Funcionais a serem atendidos, Requisitos não-funcionais a serem atendidos.
+-Outras Documentacoes: contém documentos tais como: Documento de Requisitos e Prototipo de Interfaces.
 
 Tecnologias Utilizadas
 - PHP 7.3.10
