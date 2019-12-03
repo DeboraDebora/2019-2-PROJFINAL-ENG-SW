@@ -25,17 +25,12 @@ CREATE TABLE Usuario
 CREATE TABLE Contrato
 {
 	idContrato int primary key,
-	valor float (10,2),
-	prazo varchar(10),
-	Servico varchar(50),
-	usuario varchar(50) foreign key, 
-	usuario varchar(50) foreign key;
+	valor decimal (10,2),
+	data DATE,
+	servico varchar(50),
+	nomeUsuario varchar(50) foreign key, 
+	nomeUsuario varchar(50) foreign key;
 
 }
 
 
-CREATE TABLE Cadastro {
-	nomeUsuario VARCHAR(50) FOREIGN KEY,
-	data DATE,
-	valor DECIMAL (10,2),
-	servico varchar(50),
