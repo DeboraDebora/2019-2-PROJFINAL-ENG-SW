@@ -5,7 +5,7 @@ use TrampoFacil;
 --criacao das tabelas
 CREATE TABLE Usuario
 {
-		nomePrest int primary key,
+		nome int primary key,
 		tipoServico varchar(30),
 		cpf varchar(11),
 		email varchar (20),
