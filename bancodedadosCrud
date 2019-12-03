@@ -25,3 +25,9 @@ CREATE TABLE Contrato
 	usuario varchar(50) foreign key;
 
 }
+
+CREATE TABLE Servico
+{
+	tipoServico VARCHAR(50) primary key;
+	
+}
