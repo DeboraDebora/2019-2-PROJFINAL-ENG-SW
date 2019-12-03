@@ -5,7 +5,7 @@ use TrampoFacil;
 --criacao das tabelas
 CREATE TABLE Usuario
 {
-		nome int primary key,
+		nomeUsuario varchar(50) primary key,
 		tipoServico varchar(30),
 		cpf varchar(11),
 		email varchar (20),
@@ -13,15 +13,29 @@ CREATE TABLE Usuario
 		
 		
 }
+--Você pode alterar os contratos registrados com o nome, data, valor e serviço que oferece.
+
+--Usuario:
+￼
+--Servico:
+￼
+--Data:
 
 
 CREATE TABLE Contrato
 {
-	idContrato int primary key;
-	valor float (10,2);
-	prazo varchar(10);
-	Servico varchar(50);
-	usuario varchar(50) foreign key; 
+	idContrato int primary key,
+	valor float (10,2),
+	prazo varchar(10),
+	Servico varchar(50),
+	usuario varchar(50) foreign key, 
 	usuario varchar(50) foreign key;
 
 }
+
+
+CREATE TABLE Cadastro {
+	nomeUsuario VARCHAR(50) FOREIGN KEY,
+	data DATE,
+	valor DECIMAL (10,2),
+	servico varchar(50),
