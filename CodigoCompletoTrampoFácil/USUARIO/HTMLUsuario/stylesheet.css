@@ -1,0 +1,16 @@
+body {
+  background: red;
+}
+
+h1 {
+  font-style: bold;
+}
+#fundo {
+  backgroundcolor: #FF0000;
+}
+.paragrafo {
+  color: black;
+}
+.paragrafo2 {
+  color: #ff0000;
+}
