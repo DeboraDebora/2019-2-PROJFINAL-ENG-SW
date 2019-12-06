@@ -1,0 +1,9 @@
+Foram feitos testes no sistema, e até o momento observou-se o seguinte: 
+
+-Visualização de interface: funciona perfeitamente, integrada com css. 
+
+-Testes de funcionalidades (registrar, alterar, excluir): até o momento do último teste realizado, não conseguir, por falha na conexão com banco de dados. 
+-Testando o código: as linguagens de script compilam, mas na hora de rodar o banco de dados na plataforma phpMy admin e MySqlWorkbench, dá erro, o que impede que o sistema funcione adequadamente.
+
+O motivo é a técnica de implementação do BD, que não possui suporte dos ambientes pra rodar o banco de dados, e que tem de ser reformulado. 
+-Haverá reformulação e, consequentemente, novos testes serão feitos. 
