@@ -6,7 +6,7 @@ RF005- O sistema deve permitir o cadastro de contratos.
 RF006- O sistema deve permitir consultar os contratos cadastrados.
 RF007- O sistema deve permitir alterar as informações dos contratos cadastrados.
 RF008- O sistema deve permitir excluir contratos registrados.
-RF009- O sistema deve permitir o login digitando um nome de usuário e senha.
-RF010- O sistema deve mostrar o CPF de cada usuário.
-RF011- O sistema deve mostrar o preço de cada contrato.
-RF012- O sistema deve mostrar o email de cada usuario.
+RF009- O sistema deve permitir o cadastro de feedback.
+RF010- O sistema deve permitir consultar os feebacks cadastrados.
+RF011- O sistema deve permitir alterar os feedbacks.
+RF012- O sistema deve permitir excluir os feedbacks.

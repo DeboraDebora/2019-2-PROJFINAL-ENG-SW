@@ -1,7 +1,7 @@
 Regras dos requisitos
 1. Definir somente um requisito por vez.
-2. Utilizar um vocabulário fechado.
-3. Evitar frases grandes.
+2. Utilizar um vocabulário fechado, claro e conciso.
+3. Evitar frases grandes. Máximo 200 caracteres. Sem espaços
 
 
 Formatação dos requisitos funcionais e não-funcionais
