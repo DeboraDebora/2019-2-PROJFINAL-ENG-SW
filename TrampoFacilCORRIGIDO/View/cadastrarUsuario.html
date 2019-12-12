@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TrampoFacil</title>
+</head>
+<body>
+<h1>Cadastrar Usuarios</h1>
+<h3>Formulario para cadastro de usuarios na plataforma.</h3>
+<br>
+<form action ="../Controller/cadastrarUsuario.php" method="POST">
+	<label>Nome:</label><br />
+		<input type="text" name="nome" /><br />
+	<label>cpf:</label><br />
+		<input type="text" name="cpf" /><br /> 
+	<label>telefone:</label><br />
+		<input type="int" name="telefone" /><br />
+	<label>email:</label><br />
+		<input type="email"  maxlength="15" name="email" /><br />
+		
+<br>
+<br>
+<input type="submit" value="Enviar">
+<input type="reset" value="Limpar">
+<input type="button" value="Voltar" onclick="window.location.href='CentralUsuario.html'">
+
+</body>
+</html>
